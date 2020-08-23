@@ -21,6 +21,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>RENJIMA123_CuisineReport</sonar.projectKey>
+  <sonar.organization>renjima123</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>0b45ef950dd42e092a77ef22a640cfb03be7a039</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
